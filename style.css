@@ -1,0 +1,29 @@
+.data{
+    border-bottom: solid #E5E4E2 1px;
+    width: 100%;
+    display: table;
+}
+.name{
+    color: #000000;
+    size : 10px;
+}
+.profile{
+    border : solid #E5E4E2 1px;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    margin-right: 15px;
+}
+.details p{
+    color: #808080;
+}
+.serchByname{
+    border-bottom: solid #E5E4E2 1px;
+}
+.serchByname input{
+    border: none;
+    width: 100%;
+}
+.name{
+    /* display:none; */
+}
